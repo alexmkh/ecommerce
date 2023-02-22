@@ -1,3 +1,20 @@
 main {
     min-height: 80vh;
 }
+
+.rate {
+    color: '#f8e25';
+}
+
+h3 {
+    padding: 1rem, 0;
+}
+
+.rating span {
+    margin: 0.1rem;
+    color: '#f8e25';
+}
+
+.btn-outline-secondary {
+    background-color: honeydew;
+}
